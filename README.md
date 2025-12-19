@@ -1,3 +1,5 @@
+### Note! The notebook is split into 2 separate ones - EDA.ipynb and Model.ipynb. If they don't sync with your google drive, run final.ipynb instead
+
 # Credit Default Prediction and Policy-Oriented Threshold Analysis
 
 This repository contains a data analysis and predictive modeling project focused on **credit default risk**, completed as part of the **Data Bootcamp (Finance)** course at **NYU Stern**.
